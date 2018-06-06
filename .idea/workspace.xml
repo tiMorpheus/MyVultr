@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27dd3bb8-e1ad-46d4-8a97-0cc34876af1c" name="Default" comment="" />
+    <list default="true" id="27dd3bb8-e1ad-46d4-8a97-0cc34876af1c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/flags.authy.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/_css/flags.authy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/form.authy.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/_css/form.authy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/_css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/Material-Design-Iconic-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/raleway_300.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/raleway_300.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/raleway_500.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/raleway_500.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_fonts/raleway_700.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/_fonts/raleway_700.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_au.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_au.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_de.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_de.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_fr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_fr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_gb.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_gb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_jp.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_jp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_nl.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_nl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_sg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_sg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/flags/flag_us.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/flags/flag_us.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/logo-bird.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/_images/logo-bird.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/form.authy.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/form.authy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/select2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_js/select2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/deploy/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +46,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="162">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="e#4340#4346#0" expanded="true" />
                 <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -297,7 +329,7 @@
         </entry>
       </file>
       <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_css/global.css">
+        <entry file="file://$PROJECT_DIR$/app/_css/global.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
@@ -313,11 +345,15 @@
       <find>fonticon</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_css/global.css" />
+        <option value="$PROJECT_DIR$/billing.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -336,6 +372,7 @@
     <option name="width" value="1248" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -347,32 +384,6 @@
             <path>
               <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
               <item name="vultr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vultr" type="462c0819:PsiDirectoryNode" />
-              <item name="_css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vultr" type="462c0819:PsiDirectoryNode" />
-              <item name="_fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vultr" type="462c0819:PsiDirectoryNode" />
-              <item name="_images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vultr" type="462c0819:PsiDirectoryNode" />
-              <item name="_images" type="462c0819:PsiDirectoryNode" />
-              <item name="flags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vultr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vultr" type="462c0819:PsiDirectoryNode" />
-              <item name="deploy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,6 +400,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/_fonts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -417,25 +429,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528288490583</updated>
-      <workItem from="1528288491830" duration="2162000" />
+      <workItem from="1528288491830" duration="3709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2162000" />
+    <option name="totallyTimeSpent" value="3709000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="2497" height="1445" extended-state="6" />
+    <frame x="65" y="24" width="1248" height="1416" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3375695" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24989791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29416665" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -457,23 +469,78 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_fonts/raleway_700.woff">
+    <entry file="file://$PROJECT_DIR$/app/_fonts/raleway_700.woff">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_css/global.css">
+    <entry file="file://$PROJECT_DIR$/app/_css/global.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_fonts/Material-Design-Iconic-Font.woff">
+    <entry file="file://$PROJECT_DIR$/app/_fonts/Material-Design-Iconic-Font.woff">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/billing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="1070" lean-forward="true" selection-start-line="1070" selection-end-line="1070" />
+          <folding>
+            <element signature="e#4907#4913#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#label#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#14;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="e#4340#4346#0" expanded="true" />
             <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />

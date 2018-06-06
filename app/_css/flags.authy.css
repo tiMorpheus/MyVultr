@@ -1,6 +1,6 @@
 [class^="flag-"],
 [class*="flag-"] {
-  background: url('/_images/authy/flags.png') no-repeat;
+  background: url('/app/_images/authy/flags.png') no-repeat;
 }
 
 .aflag {
